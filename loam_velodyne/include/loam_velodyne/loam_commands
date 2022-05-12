@@ -1,0 +1,12 @@
+roscore
+roslaunch velodyne_pointcloud VLP16_points.launch
+roslaunch zed_wrapper zed2.launch
+roslaunch loam_velodyne loam_velodyne.launch
+
+catkin_make -DCMAKE_BUILD_TYPE=Release
+
+ctrl+alt+T 동시에
+
+git add loam_velodyne
+git commit -m "some comment"
+git push -u origin master
