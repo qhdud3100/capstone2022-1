@@ -1,7 +1,7 @@
 # capstone2022-1
 
 
-
+# Git 협업
 ## 필수 
 ``` 
 git clone [프로젝트 주소]
