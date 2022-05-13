@@ -1,8 +1,8 @@
 # capstone2022-1
 
 
-# Git 협업
-## 필수 
+
+## Git 필수 
 ``` 
 git clone [프로젝트 주소]
 git pull [원격 repo 이름] [branch 이름] 
