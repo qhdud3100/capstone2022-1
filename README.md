@@ -1,6 +1,3 @@
-# capstone2022-1
-
-
 # Git 
 
 
