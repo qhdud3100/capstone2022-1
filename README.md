@@ -30,7 +30,7 @@ git branch
 git config --list
 ``` 
 
-## 잡기능 
+## 기타
 ``` 
 git log
 git checkout [시간코드]
